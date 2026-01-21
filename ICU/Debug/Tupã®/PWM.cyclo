@@ -1,0 +1,7 @@
+../Tupã®/PWM.c:13:6:inversores_init	1
+../Tupã®/PWM.c:90:6:diferencial	11
+../Tupã®/PWM.c:179:6:testeRegenInit	3
+../Tupã®/PWM.c:195:6:buzzerRegen	3
+../Tupã®/PWM.c:218:6:diferencialMalhaFechada	4
+../Tupã®/PWM.c:249:6:ackerman	1
+../Tupã®/PWM.c:262:6:thayson	4

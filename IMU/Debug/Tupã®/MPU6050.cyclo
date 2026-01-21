@@ -1,0 +1,3 @@
+../Tupã®/MPU6050.c:31:6:MPU6050_Init	2
+../Tupã®/MPU6050.c:59:6:MPU6050_Ler_Acel	1
+../Tupã®/MPU6050.c:80:6:MPU6050_Ler_Gyro	1
